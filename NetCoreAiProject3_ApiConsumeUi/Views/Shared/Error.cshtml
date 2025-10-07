@@ -1,0 +1,26 @@
+﻿@* @model ErrorViewModel
+@{
+    viewdata["title"] = "error";
+}
+
+<h1 class="text-danger">error.</h1>
+<h2 class="text-danger">an error occurred while processing your request.</h2>
+
+@if (model.showrequestıd)
+{
+    <p>
+        <strong>request ıd:</strong> <code>@model.requestıd</code>
+    </p>
+}
+
+<h3>development mode</h3>
+<p>
+    swapping to <strong>development</strong> environment will display more detailed information about the error that occurred.
+</p>
+<p>
+    <strong>the development environment shouldn't be enabled for deployed applications.</strong>
+    ıt can result in displaying sensitive information from exceptions to end users.
+    for local debugging, enable the <strong>development</strong> environment by setting the <strong>aspnetcore_envıronment</strong> environment variable to <strong>development</strong>
+    and restarting the app.
+</p>
+ *@

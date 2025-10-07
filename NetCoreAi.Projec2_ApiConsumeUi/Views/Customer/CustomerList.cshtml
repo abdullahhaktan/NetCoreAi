@@ -1,0 +1,31 @@
+﻿@model List<NetCoreAi.Project2_ApiConsumeUi.Dto.ResultCustomerDto>
+@{
+    Layout = null;
+}
+
+<div class="container">
+    <br /> <br />
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td>#</td>
+                <td>Müşteri Ad Soyad</td>
+                <td>Bakiye</td>
+                <td>Sil</td>
+                <td>Güncelle</td>
+            </tr>
+        </thead>
+        @foreach(var item in Model)
+        {
+            <tbody>
+                <tr>
+                    <td>@item.CustomerId</td>
+                    <td>@item.CustomerSurname</td>
+                    <td>@item.CustomerBalance</td>
+                    <td><a href="/Customer/DeleteCustomer/@item.CustomerId" class="btn btn-danger">Sil</a></td>
+                    <td><a href="/Customer/UpdateCustomer/@item.CustomerId" class="btn btn-danger">Güncelle</a></td>
+                </tr>
+            </tbody>
+       }
+    </table>
+</div>

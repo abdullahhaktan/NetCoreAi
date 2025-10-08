@@ -133,40 +133,25 @@ To run the project, first ensure that the required .NET Core SDK version is inst
 
 ---
 
-<img width="512" height="512" alt="cikti15243" src="https://github.com/user-attachments/assets/58457ba5-a9cf-4f59-9087-cff20e3a3b1f" />
+<img width="950" height="503" alt="6" src="https://github.com/user-attachments/assets/41e7e65f-2865-4b28-8505-bfc53bb79102" />
 
 ---
 
-<img width="512" height="512" alt="cikti15242" src="https://github.com/user-attachments/assets/b8407b8a-4f57-408c-868e-9d4a058cd7bb" />
 
 ---
 
-<img width="512" height="512" alt="cikti15245" src="https://github.com/user-attachments/assets/29235cf1-f2d7-4f33-90f8-dc8cf313a5b2" />
 
 ---
 
-<img width="512" height="512" alt="cikti15244" src="https://github.com/user-attachments/assets/d28b26f9-4ade-4f51-9318-43ebe7b5cd9d" />
 
 ---
 
-<img width="512" height="512" alt="cikti15248" src="https://github.com/user-attachments/assets/395f3419-999a-4584-8777-ec23adeeb932" />
 
 ---
 
-<img width="1920" height="1080" alt="Untitled 010" src="https://github.com/user-attachments/assets/2b42dff4-03f9-41c4-99a5-085a4d9299ea" />
 
 ---
 
-<img width="859" height="458" alt="Ekran görüntüsü 2025-10-05 184530" src="https://github.com/user-attachments/assets/b55408fb-8709-400d-9a62-a474bcf256b4" />
 
-<img width="862" height="455" alt="translate" src="https://github.com/user-attachments/assets/dc501e12-2c88-4809-81a3-10b42e5ff2f4" />
 
-<img width="959" height="443" alt="Ekran görüntüsü 2025-10-05 181614" src="https://github.com/user-attachments/assets/b5a115f8-f574-4682-948c-11e18db9a357" />
 
-<img width="380" height="380" alt="winners-quote-losers-quit-when-they-fail-by-robert-kiyosaki" src="https://github.com/user-attachments/assets/1a0aad4f-b8c0-4ae9-b623-d6aea25ff41c" />
-
-<img width="512" height="512" alt="cikti15247" src="https://github.com/user-attachments/assets/39f9882b-27c4-44ea-aced-0fd3ed48bbed" />
-
-<img width="512" height="512" alt="cikti15246" src="https://github.com/user-attachments/assets/aa35c67f-a33e-446c-81c3-8a2504a1200e" />
-
-<img width="959" height="414" alt="Ekran görüntüsü 2025-10-05 184814" src="https://github.com/user-attachments/assets/ee08c25c-f5de-47b0-a57e-f7138ebea706" />

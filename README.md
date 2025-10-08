@@ -95,31 +95,41 @@ To run the project, first ensure that the required .NET Core SDK version is inst
 ---
 ---
 
-<img width="757" height="380" alt="2" src="https://github.com/user-attachments/assets/48a7f965-e00d-4d8e-b3e6-a64cb51a306b" />
+### Swagger işlemleri
+
+<img width="368" height="380" alt="netAi1" src="https://github.com/user-attachments/assets/3375bafc-77f0-4ec6-80e1-10effe89d79b" />
 
 ---
 
-<img width="865" height="455" alt="chatbot" src="https://github.com/user-attachments/assets/05c2bb72-fab1-4954-9172-6ed8e4befcba" />
+### Rapid Api
+
+<img width="865" height="463" alt="netAi3" src="https://github.com/user-attachments/assets/6c0b91e2-0781-4a92-9e34-630528495c62" />
 
 ---
 
-<img width="946" height="474" alt="stable diffusion 1" src="https://github.com/user-attachments/assets/d0294eb8-9af1-4713-8d77-eb5e8a4111e1" />
+### Ollama
+
+<img width="857" height="395" alt="NetCoreAi4" src="https://github.com/user-attachments/assets/96f02934-dfb6-436e-8a7a-bb50b4adf7e8" />
 
 ---
 
-<img width="858" height="458" alt="stable diffusion 2" src="https://github.com/user-attachments/assets/537da8fb-57c5-4594-9438-9612e0855bad" />
+### Stable diffussion
+
+<img width="512" height="512" alt="STABLE(5) 1" src="https://github.com/user-attachments/assets/80666ae9-44e4-4ceb-9892-aadd979ccc24" />
 
 ---
 
-<img width="858" height="458" alt="stable diffusion 2" src="https://github.com/user-attachments/assets/da1a1bc2-bed1-4b8d-a764-53a419ac8e43" />
+<img width="512" height="512" alt="STABLE 2" src="https://github.com/user-attachments/assets/d6920a95-d2d4-491d-b5a2-8145e98d8e9a" />
+
 
 ---
 
-<img width="512" height="512" alt="cikti15240" src="https://github.com/user-attachments/assets/72a3a94d-9e5d-4628-8aaa-f6a042f1af96" />
+<img width="896" height="512" alt="STABLE 3" src="https://github.com/user-attachments/assets/c4c96dba-5b43-4124-b9f1-3c61f5a8c5d5" />
+
 
 ---
 
-<img width="512" height="512" alt="cikti15241" src="https://github.com/user-attachments/assets/c81c9f10-4565-498e-9f4f-9e82ddfed627" />
+<img width="896" height="512" alt="STABLE 4" src="https://github.com/user-attachments/assets/c7ce504d-7583-4d9b-9ce1-30271c5adbe0" />
 
 ---
 

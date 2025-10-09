@@ -133,25 +133,41 @@ To run the project, first ensure that the required .NET Core SDK version is inst
 
 ---
 
+### Tesseract OCR
+
 <img width="950" height="503" alt="6" src="https://github.com/user-attachments/assets/41e7e65f-2865-4b28-8505-bfc53bb79102" />
 
 ---
 
+Translate
+
+<img width="862" height="461" alt="Translate" src="https://github.com/user-attachments/assets/fb2d8eda-221c-4f19-bf69-749290ed1598" />
 
 ---
 
+RapidApi
 
----
-
-
----
+<img width="859" height="452" alt="RapidApi" src="https://github.com/user-attachments/assets/3e07deb6-2233-49e1-918c-9d197ae95760" />
 
 
 ---
 
+Summarize
+
+<img width="855" height="344" alt="Summarize" src="https://github.com/user-attachments/assets/7dd0732c-b586-4c0f-8243-668a8e07da84" />
 
 ---
 
+PDF Summarize
 
+<img width="861" height="374" alt="PDF Summarize" src="https://github.com/user-attachments/assets/ae3c384b-b2d2-40c2-a631-d9ed86211485" />
 
+---
 
+URL Summarize
+
+<img width="959" height="285" alt="NetCoreAi15" src="https://github.com/user-attachments/assets/05c9f037-3196-4222-b5ce-2c7631989b5c" />
+
+---
+
+<img width="298" height="391" alt="Recipe," src="https://github.com/user-attachments/assets/4846bb21-99df-4ee1-8166-6f3d550e99b3" />

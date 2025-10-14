@@ -19,7 +19,7 @@
 
 ### Yapay Zeka (AI) Entegrasyonu
 * **.NET Core** ortamında Yapay Zeka modellerinin (harici API'ler) kullanımı.
-* Gerçek zamanlı veri işleme ve **tahmin (prediction)** yetenekleri.
+* Gerçek zamanlı veri işleme ve **Yapay zeka cevapları** yetenekleri.
 * Veri biliminden elde edilen modelleri web uygulamasına entegre etme pratikleri.
 
 ### Mimari ve Teknoloji
@@ -29,8 +29,8 @@
 * Web arayüzü üzerinden Yapay Zeka çıktılarının görselleştirilmesi.
 
 ### Potansiyel Kullanım Alanları (Örnekler)
-* Basit Sınıflandırma ve Regresyon görevleri.
 * Metin analizi (Sentiment Analysis) veya Görüntü İşleme.
+* Stable diffusion kullanımı
 * Harici **AI API'leri** (OpenAI,stable diffussion) ile iletişim kurma pratikleri.
 
 ---
@@ -66,7 +66,7 @@ Projenin çalıştırılması için öncelikle gerekli .NET Core SDK sürümün�
 
 ### Artificial Intelligence (AI) Integration
 * Utilization of Artificial Intelligence models (e.g., **ML.NET** or external APIs) within the **.NET Core** environment.
-* Capabilities for real-time data processing and **prediction**.
+* Capabilities for real-time data processing and **Aİ Responses**.
 * Practices for integrating models derived from data science into a web application.
 
 ### Architecture and Technology
@@ -79,6 +79,7 @@ Projenin çalıştırılması için öncelikle gerekli .NET Core SDK sürümün�
 * Simple Classification and Regression tasks.
 * Text analysis (Sentiment Analysis) or Image Processing.
 * Practices for communicating with external **AI APIs** (e.g., Azure AI, OpenAI).
+* Stable diffusion use
 
 ---
 

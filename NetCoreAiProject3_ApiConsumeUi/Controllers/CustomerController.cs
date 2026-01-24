@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NetCoreAi.Project2_ApiConsumeUi.Dto;
 using Newtonsoft.Json;
-using System.Text.Json.Serialization;
-using System.Threading.Tasks;
 using System.Text;
 
 namespace NetCoreAi.Project2_ApiConsumeUi.Controllers
@@ -20,9 +18,9 @@ namespace NetCoreAi.Project2_ApiConsumeUi.Controllers
         {
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7296/api/Customers");
-            if(responseMessage.IsSuccessStatusCode)
+            if (responseMessage.IsSuccessStatusCode)
             {
-                var jsonData= await responseMessage.Content.ReadAsStringAsync();
+                var jsonData = await responseMessage.Content.ReadAsStringAsync();
                 var values = JsonConvert.DeserializeObject<List<ResultCustomerDto>>(jsonData);
                 return View(values);
             }
@@ -41,9 +39,9 @@ namespace NetCoreAi.Project2_ApiConsumeUi.Controllers
             var client = _httpClientFactory.CreateClient();
             var jsonData = JsonConvert.SerializeObject(createCustomerDto);
 
-            StringContent content = new StringContent(jsonData,Encoding.UTF8, "application/json");
+            StringContent content = new StringContent(jsonData, Encoding.UTF8, "application/json");
             var responseMessage = await client.PostAsync("https://localhost:7296/api/Customers", content);
-            if(responseMessage.IsSuccessStatusCode)
+            if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("CustomerList");
             }
@@ -54,7 +52,7 @@ namespace NetCoreAi.Project2_ApiConsumeUi.Controllers
         {
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.DeleteAsync("https://localhost:7296/api/Customers?id=" + id);
-            if(responseMessage.IsSuccessStatusCode)
+            if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("CustomerList");
             }
@@ -66,7 +64,7 @@ namespace NetCoreAi.Project2_ApiConsumeUi.Controllers
         {
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7296/api/Customers/GetCustomer?id=" + id);
-            if(responseMessage.IsSuccessStatusCode)
+            if (responseMessage.IsSuccessStatusCode)
             {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
 
@@ -81,7 +79,7 @@ namespace NetCoreAi.Project2_ApiConsumeUi.Controllers
         {
             var client = _httpClientFactory.CreateClient();
             var jsonData = JsonConvert.SerializeObject(updateCustomerDto);
-            StringContent content = new StringContent(jsonData,Encoding.UTF8,"application/json");
+            StringContent content = new StringContent(jsonData, Encoding.UTF8, "application/json");
             var responseMessage = await client.PutAsync("https://localhost:7296/api/Customers", content);
 
             if (responseMessage.IsSuccessStatusCode)

@@ -1,7 +1,6 @@
 ﻿using HtmlAgilityPack; // HTML parsing library
 using Newtonsoft.Json; // JSON serialization library
 using System.Text;
-using System.Xml.Schema;
 
 class Program
 {

@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using NetCoreAi.Project1_ApiDemo.Context;
 using NetCoreAi.Project1_ApiDemo.Entities;
 

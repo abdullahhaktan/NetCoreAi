@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using NetCoreAiProject3_ApiConsumeUi.Models;
+using System.Diagnostics;
 
 namespace NetCoreAiProject3_ApiConsumeUi.Controllers;
 

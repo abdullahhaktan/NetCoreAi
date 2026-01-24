@@ -1,7 +1,5 @@
 ﻿using NetCoreAi.Project3_RapidApi.ViewModels;
 using Newtonsoft.Json;
-using System.Net.Http.Headers;
-using System.Text.Json.Serialization;
 
 
 var client = new HttpClient(); // Create HttpClient instance for API calls

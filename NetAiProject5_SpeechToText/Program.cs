@@ -1,10 +1,7 @@
-﻿using System;
-using System.Net.Http;
+﻿using NAudio.Wave;
 using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 using Vosk;
-using NAudio.Wave;
 
 class Program
 {

@@ -1,0 +1,6 @@
+@NetCoreAi.Projec2_ApiConsumeUi_HostAddress = http://localhost:5209
+
+GET {{NetCoreAi.Projec2_ApiConsumeUi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

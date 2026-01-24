@@ -1,0 +1,24 @@
+﻿@model CreateCustomerDto
+
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<form method="post">
+    <div class="container">
+        <br />
+        <label>Müşteri Adı</label>
+        <input type="text" asp-for="CustomerName" class="form-control" />
+        <br />
+        <label>Müşteri Soyadı</label>
+        <input type="text" asp-for="CustomerSurname" class="form-control" />
+        <br />
+        <label>Müşteri Bakiye</label>
+        <input type="text" asp-for="CustomerBalance" class="form-control" />
+        <br />
+
+        <button type="submit" class="btn btn-outline-success">Kaydet</button>
+    </div>
+</form>
